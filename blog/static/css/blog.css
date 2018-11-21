@@ -1,4 +1,4 @@
-a {
+h1 a {
     color: #FCA205;
     font-family: 'Lobster';
 }
@@ -36,6 +36,7 @@ h1, h2, h3, h4 {
 .post-form textarea, .post-form input {
     width: 100%;
 }
+
 .top-menu, .top-menu:hover, .top-menu:visited {
     color: #ffffff;
     float: right;
